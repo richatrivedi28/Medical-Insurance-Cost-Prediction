@@ -1,6 +1,0 @@
-ipykernel
-pandas
-matplotlib
-scikit-learn
-joblib
-seaborn
